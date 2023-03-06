@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
           # Options
-          user: simon14263
+          user: simon14264
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
