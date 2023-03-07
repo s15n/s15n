@@ -77,9 +77,5 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
 
-          # Stars
-          plugin_stars: yes
-          plugin_stars_limit: 4
-
           # Traffic
           plugin_traffic: yes
