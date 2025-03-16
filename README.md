@@ -7,8 +7,8 @@ I'm Simon, a 20yo math/compsci student from Germany.
 #### Programming languages
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,rust,c,java,python,javascript,typescript">
-    <img src="https://skillicons.dev/icons?i=kotlin,rust,c,java,python,javascript,typescript&theme=light">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin,rust,c,java,python,javascript,typescript&theme=light">
+    <img src="https://skillicons.dev/icons?i=kotlin,rust,c,java,python,javascript,typescript">
   </picture>
 </a>
 <!--par-->
@@ -16,8 +16,8 @@ I'm Simon, a 20yo math/compsci student from Germany.
 #### Tools
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=latex,svelte">
-    <img src="https://skillicons.dev/icons?i=latex,svelte&theme=light">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=latex,svelte&theme=light">
+    <img src="https://skillicons.dev/icons?i=latex,svelte">
   </picture>
 </a>
 <!--typst-->
